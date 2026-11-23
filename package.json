@@ -1,0 +1,19 @@
+{
+  "name": "ticketx",
+  "version": "1.0.0",
+  "description": "Safe Ticket Reselling Platform with Anti-Scalping, AI Fraud Detection & Admin Escrow",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "ticket-reselling",
+    "bangladesh",
+    "anti-scalping",
+    "ai-verification",
+    "escrow"
+  ],
+  "author": "TicketX Team",
+  "license": "ISC"
+}
